@@ -1,16 +1,17 @@
-# singPentingAdaReadme
+# Umigaku
 
 ## Anggota Kelompok
  - Muhammad Athar Alfarisi (140810250005)
  - Muhammad Faiz Hariy Nugroho (140810250029)
  - Subhil Mubarak (140810250032)
-## Fungsi
 
+## Fungsi
+- menghimpun berbagai artikel tentang pelestarian laut
+- untuk menyebarluaskan pengetahuan tentang kelautan
+- meningkatkan kesadaran untuk menjaga laut
 ## Tujuan
-1. SDG 4.7  
-memberikan edukasi tentang SDG...
-2. SDG 14.a  
-memudahkah penyebaran informasi tentang mejaga laut dan isinya 
+memenuhi SDG 4.7 dan SDG 14.a dengan cara menyediakan platform untuk mempelajari lingkungan. lebih spesifiknya ancaman dan bagaimana cara menjaga lautan. 
 ## Target Pengguna
+semua orang yang ingin mempelajari tentang lautan
 ## Mockup Kasar Sederhana
 ## Skema Database
