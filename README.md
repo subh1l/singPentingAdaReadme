@@ -24,3 +24,4 @@ Sebanyak mungkin orang, guna meningkatkan ketertarikan dan kepedulian publik ter
 ![test](assets/landing-page.png)
 
 ## Skema Database
+![test](assets/skema.png)
