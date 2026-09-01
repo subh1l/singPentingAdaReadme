@@ -21,6 +21,6 @@ Increase scientific knowledge, develop research capacity and transfer marine tec
 Sebanyak mungkin orang, guna meningkatkan ketertarikan dan kepedulian publik terhadap laut serta meningkatkan kesadaran akan urgensi konservasi laut dan lingkungan.
 
 ## Mockup Kasar Sederhana
-![test](assets/Landing%20Page.png)
+![test](assets/landing-page.png)
 
 ## Skema Database
