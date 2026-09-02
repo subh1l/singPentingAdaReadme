@@ -21,7 +21,9 @@ Projek ini diharapkan memenuhi SDG poin 4.7 dan 14.a dengan cara menjadi platfor
 Sebanyak mungkin orang, guna meningkatkan ketertarikan dan kepedulian publik terhadap laut serta meningkatkan kesadaran akan urgensi konservasi laut dan lingkungan.
 
 ## Mockup Kasar Sederhana
-![test](assets/landing-page.png)
+![landing-page](assets/landing-page.png)
+![map](assets/map.png)
+![library](assets/library.png)
 
 ## Skema Database
 ![test](assets/skema.png)
